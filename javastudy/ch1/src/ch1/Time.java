@@ -1,7 +1,5 @@
 package ch1;
 
-import org.omg.CosNaming.NamingContextExtPackage.AddressHelper;
-
 public class Time {
 
 	public static void main(String[] args) {
