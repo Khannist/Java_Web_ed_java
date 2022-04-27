@@ -12,6 +12,7 @@ public class SupersonicAireplaneExample1 {
 		sa.flyMode = 1;
 		sa.fly();
 		sa.land();
+
 	}
 
 }
